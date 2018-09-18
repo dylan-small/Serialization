@@ -1,3 +1,5 @@
-### Install into Eclipse:
-
-To install into Eclipse, first download the source, then open eclipse. Then, navigate to File > Open Projects from File System, and import the folder
+### Serializing Objects by Dylan Small
+#### To run this program, open terminal or command prompt, and type
+```
+java -jar [drag jar file here]
+```
